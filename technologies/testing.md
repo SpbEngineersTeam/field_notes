@@ -1,0 +1,3 @@
+* xunit
+* AutoFixture
+* AutoFixture.AutoMoq
