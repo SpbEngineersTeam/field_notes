@@ -6,4 +6,4 @@
 * [Async Streams in C# 8](https://www.infoq.com/articles/Async-Streams) 
 * [Tutorial: Containerize a .NET Core app](https://docs.microsoft.com/en-us/dotnet/core/docker/build-container)
 * [Choosing the right NoSQL database for the job - A quality attribute evaluation](http://faculty.washington.edu/wlloyd/courses/tcss562/papers/ChoosingTheRightNoSQLDatabaseForTheJob-AQualityAttributeEvaluation.pdf)
-* [Distributed systems book](http://faculty.washington.edu/wlloyd/courses/Distributed_Systems_book.pdf)
+* [Distributed systems book (Wes J. Lloyd)](http://faculty.washington.edu/wlloyd/courses/Distributed_Systems_book.pdf)
