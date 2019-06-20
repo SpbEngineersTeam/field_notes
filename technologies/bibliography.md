@@ -5,3 +5,4 @@
 * [Жизненный цикл ASP.NET MVC с картинками](https://docs.microsoft.com/ru-ru/aspnet/mvc/overview/getting-started/lifecycle-of-an-aspnet-mvc-5-application)  
 * [Async Streams in C# 8](https://www.infoq.com/articles/Async-Streams) 
 * [Tutorial: Containerize a .NET Core app](https://docs.microsoft.com/en-us/dotnet/core/docker/build-container)
+* [Choosing the right NoSQL database for the job - A quality attribute evaluation](http://faculty.washington.edu/wlloyd/courses/tcss562/papers/ChoosingTheRightNoSQLDatabaseForTheJob-AQualityAttributeEvaluation.pdf)
