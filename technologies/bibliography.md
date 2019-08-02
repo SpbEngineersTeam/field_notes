@@ -1,4 +1,6 @@
 #### Интересные статьи.
+* [Await, SynchronizationContext, and Console Apps](https://devblogs.microsoft.com/pfxteam/await-synchronizationcontext-and-console-apps/?source=post_page)  
+* [Parallel Computing - It's All About the SynchronizationContext](https://msdn.microsoft.com/en-us/magazine/gg598924.aspx)  
 * [Understanding Async, Avoiding Deadlocks](https://medium.com/rubrikkgroup/understanding-async-avoiding-deadlocks-e41f8f2c6f5d)
 * [Async Await and the Generated StateMachine](https://www.codeproject.com/Articles/535635/Async-Await-and-the-Generated-StateMachine) *Содержит ошибки.*  
 * [На переднем крае - Code First и инициализация базы данных](https://msdn.microsoft.com/ru-ru/magazine/mt788618.aspx)  
