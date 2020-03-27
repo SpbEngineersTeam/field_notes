@@ -8,8 +8,7 @@ Demo: ConcurrencyVisualizer
 Demo: Parallel Stacks/Tasks  
 Homework
     
-2
-Async basics  
+2 Async basics  
 Threads & Pools  
 Task API  
 Demo: ThreadPool use with diffrent API  
@@ -25,8 +24,7 @@ Demo: optimizing asynchronous chains of calls
 Demo: asynchronous File API  
 Homework  
 
-3  
-Async II  
+3 Async II  
 Execution, contexts, scheduler  
 Demo: your own SynchronizationContext  
 Demo: Scheduler Azure Durable Functions  
@@ -42,9 +40,9 @@ Demo: StringBuilder i ThreadLocal
 Demo: scopes with AsyncLocal  
 Demo: floating the state  
 Homework  
-4  
 
-Async III  
+
+4 Async III  
 Tasks aggregations  
 Demo: awaiting in task completion order  
 Demo: Parallel.For with async vs Task.WhenAll  
@@ -56,10 +54,9 @@ IAsyncEnumerable
 Demo: gRPC with IAsyncEnumerable  
 Demo: New SQL client  
 Homework  
-5
 
 
-Low-level concurrency  
+5 Low-level concurrency  
 Hardware  
 volatile  
 Demo: Epoch programming in ConcurrentQueue  
@@ -68,10 +65,8 @@ Demo: simple pool with Interlocked.Exchange
 Barriers and alignment  
 Demo: range reservation with Aeron.NET and Interlocked.CompareExchange  
 Homework  
-6
 
-
-Concurrent - tools  
+6 Concurrent - tools  
 Exclusive locking  
 Demo: decompiling lock  
 Demo: non-blocking usage of Monitor.TryEnter  
@@ -83,10 +78,8 @@ Demo: consuming event once with AutoResetEvent
 Asynchronous primitives  
 Demo: deadlock debugging  
 Homework  
-7
 
-
-Concurrent Data Structures  
+7 Concurrent Data Structures  
 Foundations  
 BlockingCollection  
 Demo: BlockingCollection z CancellationToken  
@@ -98,19 +91,17 @@ ConcurrentDictionary
 Demo: efficient caching with ConcurrentDictionary.GetOrAdd  
 ConcurrentBag  
 Homework  
-8
 
 
-New Concurrent Data Structures  
+8 New Concurrent Data Structures  
 Channels  
 Demo: bounded channels for metrics’ snapshots  
 Pipelines  
 Demo: Pipelines in ServiceStack.Redis with locking and ConcurrentQueue  
 Homework  
-9
 
 
-Miscellaneous topics  
+9 Miscellaneous topics  
 Demo: IValueTaskSource with Interlocked.CompareExchange  
 Demo: IValueTaskSource based on an array with token discriminator  
 ValueTask and pooling in .NET 5  
